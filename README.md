@@ -15,6 +15,17 @@
 
 <br>
 
+## 🎯 2026 Goals
+
+☑ Learn Python
+☑ Learn Git & GitHub
+☐ Learn Linux
+☐ Learn AWS
+☐ Learn Docker
+☐ Learn Kubernetes
+☐ Build Real Projects
+☐ Get My First Tech Job
+
 ## ⚒️ Tech Arsenal
 
 <p align="center">
@@ -26,16 +37,6 @@
 </p> 
 <br>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aspirantprash&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspirantprash&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=aspirantprash&theme=github-dark-blue&hide_border=true"/>
-</p> 
-<br>
 
 ### 🌐 Connect With Me
 
@@ -46,3 +47,4 @@
 </p>
 ━━━━━━━━━━━━━━━━━━━━━━
 ⭐ Thanks for visiting my profile!
+━━━━━━━━━━━━━━━━━━━━━━
