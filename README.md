@@ -1,41 +1,29 @@
-<h1 align="center">Hi 👋, I'm Prashant Sharma</h1>
+# Hi 👋, I'm Prashant Sharma
 
-<h3 align="center">
-Aspiring Cloud Engineer ☁️ | Python Developer 🐍 | Future DevOps Engineer 🚀
-</h3>
+### ☁️ Aspiring Cloud Engineer | 🐍 Python Developer | 🚀 Future DevOps Engineer
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Learning+Python+Every+Day;Future+Cloud+Engineer;Building+Projects+%26+Sharing+My+Journey" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Learning+Python+Every+Day;Building+Projects;Future+Cloud+Engineer" />
+
+</div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 👨‍💻 About Me
+## 💫 About Me
 
 - 🌱 Currently learning **Python**
-- ☁️ Learning **Cloud Computing**
+- ☁️ Preparing for **Cloud Engineering**
 - 🐧 Exploring **Linux**
-- 🎯 Goal: Become a Cloud Engineer
-- 📚 Sharing my daily coding journey on GitHub
-- ⚡ Fun Fact: Consistency beats motivation.
+- 📚 Building projects and documenting my journey
+- 🎯 Goal: Become a Cloud & DevOps Engineer
 
-<br><br><br><br><br><br>
----
+<br>
 
-## 🛠️ Tech Stack
+### 🌐 Connect With Me
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/prashant-sharma-1202242b3/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="https://www.linkedin.com/in/prashant-sharma-1202242b3/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
