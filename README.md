@@ -22,6 +22,15 @@ Aspiring Cloud Engineer ☁️ | Python Developer 🐍 | Future DevOps Engineer 
 - ⚡ Fun Fact: Consistency beats motivation.
 
 <br><br><br><br><br><br>
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
