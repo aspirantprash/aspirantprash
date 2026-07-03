@@ -17,14 +17,14 @@
 
 ## 🎯 2026 Goals
 
-☑ Learn Python
-☑ Learn Git & GitHub
-☐ Learn Linux
-☐ Learn AWS
-☐ Learn Docker
-☐ Learn Kubernetes
-☐ Build Real Projects
-☐ Get My First Tech Job
+✔ Learn Python deeply  
+✔ Master Git & GitHub  
+✔ Learn Linux basics & advanced  
+✔ Start Cloud (AWS) ☁️  
+✔ Learn Docker 🐳  
+✔ Learn Kubernetes ⚙️  
+✔ Build real-world projects 🚀  
+✔ Get first job in Tech 💼  
 
 ## ⚒️ Tech Arsenal
 
@@ -37,14 +37,5 @@
 </p> 
 <br>
 
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/prashant-sharma-1202242b3/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-</p>
 ━━━━━━━━━━━━━━━━━━━━━━
-⭐ Thanks for visiting my profile!
-━━━━━━━━━━━━━━━━━━━━━━
+⭐ Thanks for visiting my profile! ━━━━━━━━━━━━━━━━━━━━━━
