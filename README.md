@@ -4,9 +4,9 @@
 
 I'm a BCA graduate passionate about building modern, responsive, and user-friendly web applications.
 
-🌱 Currently learning and building with the **MERN Stack**
-💻 Focused on **Frontend + Backend Web Development**
-🚀 Building projects to strengthen my development skills
+🌱 Currently learning and building with the **MERN Stack**<br>
+💻 Focused on **Frontend + Backend Web Development**<br>
+🚀 Building projects to strengthen my development skills<br>
 🎯 Goal: Become a job-ready **MERN Stack Developer**
 
 ---
