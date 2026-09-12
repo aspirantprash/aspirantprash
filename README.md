@@ -2,12 +2,11 @@
 
 ### MERN Stack Learner | HTML, CSS, JavaScript, Python | Building full-stack projects
 
-I'm a BCA graduate passionate about building modern, responsive, and user-friendly web applications.
+I'm a BCA graduate passionate about building modern web applications.
 
-🌱 Currently learning and building with the **MERN Stack**<br>
-💻 Focused on **Frontend + Backend Web Development**<br>
-🚀 Building projects to strengthen my development skills<br>
-🎯 Goal: Become a job-ready **MERN Stack Developer**
+🌱 Learning **MERN Stack**
+💻 Building **Full-stack Projects**
+🎯 Becoming a Job-ready Developer<br>
 
 ---
 <br>
