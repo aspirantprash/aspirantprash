@@ -1,41 +1,120 @@
 # Hi 👋, I'm Prashant Sharma
 
-### ☁️ Aspiring Cloud Engineer | 🐍 Python Developer | 🚀 Future DevOps Engineer
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Learning+Python+Every+Day;Building+Projects;Future+Cloud+Engineer" />
-</div>
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+### MERN Stack Learner | HTML, CSS, JavaScript, Python | Building full-stack projects
 
+I'm a BCA graduate passionate about building modern, responsive, and user-friendly web applications.
+
+🌱 Currently learning and building with the **MERN Stack**
+💻 Focused on **Frontend + Backend Web Development**
+🚀 Building projects to strengthen my development skills
+🎯 Goal: Become a job-ready **MERN Stack Developer**
+
+---
+<br>
 ## 💫 About Me
 
-- 🌱 Currently learning **Python**
-- ☁️ Preparing for **Cloud Engineering**
-- 🐧 Exploring **Linux**
-- 📚 Building projects and documenting my journey
-- 🎯 Goal: Become a Cloud & DevOps Engineer
+- 🎓 BCA Graduate
+- 💻 Know: HTML, CSS, JavaScript, Python
+- 🌱 Learning: React.js, Node.js, Express.js, MongoDB
+- 🛠 Building: Full-stack MERN Projects
+- 📚 Improving: DSA, REST APIs & Problem Solving
+- 📫 Reach me: https://www.linkedin.com/in/prashant-sharma-1202242b3/
 
-<br>
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+
+### ⚙️ Backend
+
+* Node.js
+* Express.js
+
+### 🗄️ Database
+
+* MongoDB
+
+### 🔧 Tools
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 📚 Currently Learning
+
+* Data Structures & Algorithms
+* 📚 Currently Learning
+* ⚡ JavaScript
+* ⚛️ React.js
+* 🟢 Node.js
+* 🚂 Express.js
+* 🍃 MongoDB
+* 🔗 REST APIs
+* 🔧 Git & GitHub
+* 🧠 Data Structures & Algorithms
+
+---
+
+## 🚀 Projects
+
+| Project                | Technology            | Description                                 |
+| ---------------------- | --------------------- | ------------------------------------------- |
+| 🌐 Web Projects        | HTML, CSS, JavaScript | Building responsive web interfaces          |
+| ⚛️ React Projects      | React.js              | Learning and building interactive UIs       |
+| 🟢 Backend Projects    | Node.js, Express.js   | Building APIs and backend applications      |
+| 🍃 Full Stack Projects | MERN                  | Developing complete full-stack applications |
+
+> More projects coming as I continue my MERN journey 🚀
+
+---
+
+## 📈 My Learning Journey
+
+```text
+HTML & CSS
+    ↓
+JavaScript
+    ↓
+React.js
+    ↓
+Node.js + Express.js
+    ↓
+MongoDB
+    ↓
+REST APIs
+    ↓
+MERN Stack 🚀
+```
+
+---
 
 ## 🎯 2026 Goals
 
-✔ Learn Python deeply  
-✔ Master Git & GitHub  
-✔ Learn Linux basics & advanced  
-✔ Start Cloud (AWS) ☁️  
-✔ Learn Docker 🐳  
-✔ Learn Kubernetes ⚙️  
-✔ Build real-world projects 🚀  
-✔ Get first job in Tech 💼  
+* ✅ Complete BCA
+* 🚀 Become a job-ready MERN Stack Developer
+* 💻 Build real-world full-stack projects
+* 📚 Improve DSA & problem-solving
+* 🌐 Build and deploy web applications
 
-## ⚒️ Tech Arsenal
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,bash" />
-</p>
+## 🤝 Let's Connect
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
-</p> 
-<br>
+* 💼 LinkedIn: [Prashant Sharma-(https://www.linkedin.com/in/prashant-sharma-1202242b3/)
+* 🌐 Portfolio: Coming Soon
+* 📧 Email: 
 
-━━━━━━━━━━━━━━━━━━━━━━
-⭐ Thanks for visiting my profile! ━━━━━━━━━━━━━━━━━━━━━━
+---
+
+### 💡 My Philosophy
+
+> **Learn • Build • Debug • Improve 🚀**
+
+━━━━━━━━━━━━━━━━━━━━━━ ⭐ Thanks for visiting my profile! ━━━━━━━━━━━━━━━━━━━━━━
