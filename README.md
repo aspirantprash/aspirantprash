@@ -1,12 +1,13 @@
 # Hi 👋, I'm Prashant Sharma
 
 ### MERN Stack Learner | HTML, CSS, JavaScript, Python | Building full-stack projects
-
+<br>
 I'm a BCA graduate passionate about building modern web applications.
+<br>
 
-🌱 Learning **MERN Stack**
-💻 Building **Full-stack Projects**
-🎯 Becoming a Job-ready Developer<br>
+- 🌱 Learning **MERN Stack**
+- 💻 Building **Full-stack Projects**
+- 🎯 Becoming a Job-ready Developer<br>
 
 ---
 <br>
