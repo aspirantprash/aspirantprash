@@ -3,6 +3,7 @@
 ### MERN Stack Learner | HTML, CSS, JavaScript, Python | Building full-stack projects
 <br>
 I'm a BCA graduate passionate about building modern web applications.
+<br> 
 <br>
 
 - 🌱 Learning **MERN Stack**
